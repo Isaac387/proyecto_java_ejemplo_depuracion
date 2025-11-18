@@ -1,5 +1,5 @@
 package Actividad1;
-//modificado por Anderson Isaac Arriola carias
+//modificado por Anderson Isaac Arriola carias 22/12/2004
 public class esPalindromo {
 	public static boolean validPalindrome(String s) {
 	       for (int i = 0, j = s.length() - 1; i < j; i++, j--) {
